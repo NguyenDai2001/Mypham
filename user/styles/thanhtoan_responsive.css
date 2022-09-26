@@ -1,0 +1,555 @@
+
+#form_thanhtoan
+{
+	width: auto;
+	height: max-content;
+    padding: 14% 0 14% 0;
+	background-image: url(../../images/anh_Tinh/background-mua-he-dep.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+	
+	text-align: center ;
+	
+
+
+}
+#thanhtoan
+{
+	width: 70%;
+	height: max-content;
+	background-color: #ffffff;
+	display: inline-block;
+
+}
+
+#from_thongtin
+{
+	float: left;
+	width: 60% ;
+	height: max-content;
+	background-color: #ffffff;
+}
+#from_sanpham
+{
+	float: right;
+	width: 38% ;
+	height: 400px;
+	background-color: #ffffff;
+}
+
+
+.header_tieude
+{
+	background: #fefefe;
+	padding: 10px 0 10px 0;
+	border-radius: 20px ;
+	border: 3px solid black;
+	box-shadow: 3px 3px 3px 3px rgb(104, 104, 104) ;
+}
+
+
+.thongtin
+{
+    
+	margin-top: 20px;
+	background: #fefefe;
+	padding: 20px 20px 20px 20px;
+	border-radius: 20px ;
+	border: 3px solid black;
+	box-shadow: 3px 3px 3px 3px rgb(104, 104, 104) ;
+}
+.nhapthongtin
+{
+	height: max-content;
+	background-image: url(../../images/anh_Tinh/KS1496-Converted.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+	padding: 20px;
+    border-radius: 10px;
+}
+.nhapthongtin label
+{
+	float: left;
+    width: 30%;
+	
+}
+.nhapthongtin legend
+{
+	padding-top: 20px;
+	
+}
+.nhapthongtin input
+{
+    border-radius: 10px;
+    padding-left: 2%;
+}
+ 
+#bnt-submit{
+	width: 150px;
+}
+
+
+#anhsanpham
+{
+    width: 60%;
+}
+#div-tongtien{
+	border: 2px solid #FFFFFF;
+	background-color: #fbdcf1;
+}
+.Table-thongtin{
+	border: 2px solid #FFFFFF;
+	background-color: #fbdcf1;
+	
+	
+}
+.header_tieude p
+{
+	font-size: 2vw;
+    color: #2b2b34;
+}
+
+
+.nhapthongtin legend label{
+	width: 33%;
+	font-size: 1.5vw;
+	font-weight: bolder;
+	color: #2b2b34;
+	 
+}
+.nhapthongtin legend input{
+	width: 67%;
+}
+#anhsanpham 
+{
+    width: 36%;
+}
+#tensanpham
+{
+    width: 60%;
+}
+/* __________________________________________-thanh toán-_______________________________________________________ */
+@media only screen and (max-width:1480px) {
+	#form_thanhtoan
+{
+	width: auto;
+	height: max-content;
+    padding: 14% 0 14% 0;
+	background-image: url(../../images/anh_Tinh/background-mua-he-dep.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+	
+	text-align: center ;
+	
+
+
+}
+#thanhtoan
+{
+	width: 70%;
+	height: max-content;
+	background-color: #ffffff;
+	display: inline-block;
+
+}
+
+#from_thongtin
+{
+	float: left;
+	width: 60% ;
+	height: max-content;
+	background-color: #ffffff;
+}
+#from_sanpham
+{
+	float: right;
+	width: 38% ;
+	height: 400px;
+	background-color: #ffffff;
+}
+
+
+.header_tieude
+{
+	background: #fefefe;
+	padding: 10px 0 10px 0;
+	border-radius: 20px ;
+	border: 3px solid black;
+	box-shadow: 3px 3px 3px 3px rgb(104, 104, 104) ;
+}
+
+
+.thongtin
+{
+    
+	margin-top: 20px;
+	background: #fefefe;
+	padding: 20px 20px 20px 20px;
+	border-radius: 20px ;
+	border: 3px solid black;
+	box-shadow: 3px 3px 3px 3px rgb(104, 104, 104) ;
+}
+.nhapthongtin
+{
+	height: max-content;
+	background-image: url(../../images/anh_Tinh/KS1496-Converted.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+	padding: 20px;
+    border-radius: 10px;
+}
+.nhapthongtin label
+{
+	float: left;
+    width: 30%;
+	
+}
+.nhapthongtin legend
+{
+	padding-top: 20px;
+	
+}
+.nhapthongtin input
+{
+    border-radius: 10px;
+    padding-left: 2%;
+}
+ 
+#bnt-submit{
+	width: 150px;
+}
+
+
+#anhsanpham
+{
+    width: 60%;
+}
+#div-tongtien{
+	border: 2px solid #FFFFFF;
+	background-color: #fbdcf1;
+}
+.Table-thongtin{
+	border: 2px solid #FFFFFF;
+	background-color: #fbdcf1;
+	
+	
+}
+.header_tieude p
+{
+	font-size: 2vw;
+    color: #2b2b34;
+}
+
+
+.nhapthongtin legend label{
+	width: 33%;
+	font-size: 1.5vw;
+	font-weight: bolder;
+	color: #2b2b34;
+	 
+}
+.nhapthongtin legend input{
+	width: 67%;
+}
+#anhsanpham 
+{
+    width: 36%;
+}
+#tensanpham
+{
+    width: 60%;
+}
+
+}
+
+
+
+
+
+
+
+/* _____________Screen___________ */
+@media only screen and (max-width:1000px) {
+	#thanhtoan
+{
+	width: 85%;
+	height: max-content;
+	background-color: #ffffff;
+	display: inline-block;
+
+}
+	.nhapthongtin legend
+	{
+		padding-top: 0px;
+		
+	}
+.header_tieude p
+{
+	font-size: 2vw;
+    color: #2b2b34;
+}
+
+
+.nhapthongtin legend label{
+	width: 100%;
+	font-size: 1.5vw;
+	font-weight: bolder;
+	color: #2b2b34;
+
+	 
+}
+.nhapthongtin legend input{
+	width: 67%;
+}
+#anhsanpham 
+{
+    width: 36%;
+}
+#tensanpham
+{
+    width: 60%;
+}
+
+}
+
+/* _____________Screen___________ */
+@media only screen and (max-width:800px) {
+	#thanhtoan
+	{
+		width: 80%;
+		height: max-content;
+		background-color: #ffffff;
+		display: inline-block;
+		margin-top: 8%;
+	
+	}
+	#from_sanpham
+	{
+		
+		float: none;
+		width: 100% ;
+		height: 400px;
+		background-color: #ffffff;
+		margin-top: 5%;
+		
+	}
+
+	#from_thongtin
+	{
+		
+		float: none;
+		width: 100% ;
+		height: max-content;
+		background-color: #ffffff;
+		
+
+	}
+	.header_tieude p
+	{
+		font-size: 4vw;
+		color: #2b2b34;
+	}
+
+	.nhapthongtin legend label{
+		width: 100%;
+		font-size: 3.4vw;
+		font-weight: bolder;
+		color: #2b2b34;
+		margin: 0px ;
+	
+		 
+	}
+	.nhapthongtin legend input{
+		width: 80%;
+	}
+	#anhsanpham 
+	{
+		width: 36%;
+	}
+	#tensanpham
+	{
+		width: 60%;
+	}
+}
+
+/* _____________Screen___________ */
+@media only screen and (max-width:500px) {
+	#thanhtoan
+	{
+		width: 100%;
+		height: max-content;
+		background-color: #ffffff;
+		display: inline-block;
+		margin-top: 10%;
+	
+	}
+	#from_sanpham
+	{
+		
+		float: none;
+		width: 100% ;
+		height: 400px;
+		background-color: #ffffff;
+		margin-top: 5%;
+		
+	}
+
+	#from_thongtin
+	{
+		
+		float: none;
+		width: 100% ;
+		height: max-content;
+		background-color: #ffffff;
+		
+
+	}
+
+	.header_tieude p
+	{
+		font-size: 4vw;
+		color: #2b2b34;
+	}
+	.nhapthongtin legend label{
+		width: 100%;
+		font-size: 4vw;
+		font-weight: bolder;
+		color: #2b2b34;
+		margin: 0px ;
+	
+		 
+	}
+	.nhapthongtin legend input{
+		width: 90%;
+	}
+	#anhsanpham 
+	{
+		width: 36%;
+	}
+	#tensanpham
+	{
+		width: 60%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #form_thanhtoan
+{
+	width: auto;
+	height: max-content;
+    padding: 14% 0 14% 0;
+	background-image: url(../../images/anh_Tinh/background-mua-he-dep.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+	
+	text-align: center ;
+	
+
+
+}
+#thanhtoan
+{
+	width: 70%;
+	height: max-content;
+	background-color: #ffffff;
+	display: inline-block;
+
+}
+
+#from_thongtin
+{
+	float: left;
+	width: 60% ;
+	height: max-content;
+	background-color: #ffffff;
+}
+#from_sanpham
+{
+	float: right;
+	width: 38% ;
+	height: 400px;
+	background-color: #ffffff;
+}
+
+
+.header_tieude
+{
+	background: #fefefe;
+	padding: 10px 0 10px 0;
+	border-radius: 20px ;
+	border: 3px solid black;
+	box-shadow: 3px 3px 3px 3px rgb(104, 104, 104) ;
+}
+.header_tieude p
+{
+	font-size: 30px;
+    color: #2b2b34;
+}
+
+.thongtin
+{
+    
+	margin-top: 20px;
+	background: #fefefe;
+	padding: 20px 20px 20px 20px;
+	border-radius: 20px ;
+	border: 3px solid black;
+	box-shadow: 3px 3px 3px 3px rgb(104, 104, 104) ;
+}
+.nhapthongtin
+{
+	height: max-content;
+	background-image: url(../../images/anh_Tinh/KS1496-Converted.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+	padding: 20px;
+    border-radius: 10px;
+}
+.nhapthongtin label
+{
+	float: left;
+    width: 30%;
+	
+}
+.nhapthongtin legend
+{
+	padding-top: 20px;
+	
+}
+.nhapthongtin input
+{
+    border-radius: 10px;
+    padding-left: 2%;
+}
+ 
+#bnt-submit{
+	width: 150px;
+}
+
+
+#anhsanpham
+{
+    width: 60%;
+}
+#div-tongtien{
+	border: 2px solid #FFFFFF;
+	background-color: #fbdcf1;
+}
+.Table-thongtin{
+	border: 2px solid #FFFFFF;
+	background-color: #fbdcf1;
+	
+	
+}
+ */

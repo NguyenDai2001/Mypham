@@ -1,0 +1,143 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.container_gioHang
+{
+    margin-top: 200px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 350px;
+   
+}
+#hinhanh img
+{
+    width: 100px;
+    height: 100px;
+}
+.container_gioHang .td .img
+{
+    width: 20px;
+    height: 20px;
+
+    color: rgb(17, 179, 255);
+}
+
+@media screen and (min-width: 991px) { 
+    .container_gioHang_responsive{
+        display: none;
+    }
+    #bnt-xoahet-respo{
+        display: none;
+    }
+} 
+
+
+
+@media screen and (min-width: 991px) { 
+						
+    #bnt-giohang-dieuhuong{
+        display: none;
+    }
+    #bnt-xoahet-respo{
+        display: none;
+    }
+}
+ @media screen and (max-width: 991px) { 
+    
+    .benefit, .newsletter ,footer{
+    display: none;
+}
+
+        .container_gioHang_responsive{
+            margin-top: 30vw;
+            
+        }
+        .container_gioHang{
+            display: none;
+        }
+        .content_giohang{
+            padding: 2% 2% 5% 2%;
+            
+            
+        }
+        .giohang_tb{
+            width: 100%;
+            background-image:   url(images/anh_Tinh/pngtree-light-orange-simple-fresh-skin-care-banner-background-image_232751.jpg);
+            border-radius: 20px;
+            
+            
+        }
+        .tb_xoa{
+            display: flex;
+            flex-direction: row-reverse;
+        }
+        .tb_xoa a {
+            
+            padding: 1vw 3vw 1vw 1vw;
+        }
+        .tb_tensp{
+            padding: 0 1vw 0 0;
+        }
+        
+    
+        
+        .td_anh{
+            width: 40%;
+        }
+        .giohang_tb tr td img{
+        width: 26vw;
+        margin: 0 30px 30px 30px;
+        border-radius: 10px;
+        
+    }
+
+
+
+
+    #bnt-giohang-dieuhuong {
+        width:100%;
+        height: max-content;
+        bottom: 0px;
+        background: white;
+        position: fixed;
+        z-index: 9;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+    #bnt-trove{
+        float: left;
+        width: 50%;
+        
+    }
+    #bnt-thanhtoan{
+        float: right;
+        width: 50%;
+        
+    }
+    }
+    .btn-warning{
+            width: 100%;
+            background-color:  rgb(17, 179, 255);
+            border: none;
+    }
+    .btn-success 
+    {
+            width: 100%;
+            background-color:rgb(255, 145, 0);
+    }
+    #bnt-xoahet-respo{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    #tb_tongtien{
+        height: 5vw;
+        font-size: 3vw;
+        display: flex;
+        justify-content: center;
+    }
+        
+

@@ -1,0 +1,30 @@
+#quanly_user
+{
+    background-color: #fff;
+    text-align: center;
+    padding-top: 20px;
+   
+    
+}
+#bangThongTin_hoaDon{
+    width: 45%;
+    height: max-content;
+    float: left;
+}
+#bangThongTin_hoaDon table{
+    float: left;
+    margin-left: 7%;
+}
+#bangThongTin_hoaDon table td{
+    width: 80%;
+}
+
+#bangSanPham_hoaDon{
+    width: 45%;
+    height: max-content;
+    float: right;
+}
+#bangSanPham_hoaDon table{
+    float: left;
+    margin-right: 7%;
+}

@@ -1,0 +1,73 @@
+
+/* --------------quản lý slide trang chủ */
+            .content
+            {
+                text-align:center;
+            }
+            table
+            {
+                margin-top: 10px;
+                background-color: rgb(207, 207, 207);
+                
+            }
+            table tr
+            {
+                border: 4px double rgba(8, 197, 255, 0.309);
+                margin-top: 10px;
+                
+            }
+            table tr td
+            {
+                border: 4px double rgba(8, 197, 255, 0.309);
+            }
+            table tr th{
+                border: 4px double rgba(8, 197, 255, 0.309);
+            }
+            table tr td img
+            {
+                margin: 5px 0px;
+            }
+            table tr td a
+            {
+                color: black;
+                
+            }
+
+            .nut_quanly
+            {
+                display: inline-block
+                
+            }
+            #upanh
+            {
+                border: 1px solid red;
+            }
+
+
+
+            .quanly_slider table th
+            {
+                width: 200px;
+                text-align:center;
+                
+            }
+            .quanly_slider table th h5
+            {
+                display: inline-block
+            }
+
+
+
+/*------------------ quản lý sản phẩm */
+            #chartHours
+            {
+                height: max-content;
+            }
+            .ct-chart table
+            {
+                display: inline-block;
+                
+                
+            }
+
+            

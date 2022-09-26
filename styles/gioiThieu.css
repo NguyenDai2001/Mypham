@@ -1,0 +1,39 @@
+/* -----------------------------------------------Trang Giới thiệu------------------------------------------ */
+.gioithieu
+{
+	width: auto;
+	height: max-content;
+	margin-top: 100px;
+    background-image: url(../images/anh_Tinh/background-my-pham-cuc-dep_094500997.jpg);
+    background-size: 100%;
+    text-align: center;
+}
+.noidung_gioithieu
+{
+	width: 60% ;
+    display: inline-block;
+    margin: 8% 0 5% 0;
+    
+}
+.form_gioithieu
+{
+    margin-bottom: 1%;
+    background-color: rgb(255, 255, 255);
+    padding: 1% 0 1% 0;
+    border-radius: 20px;
+    border: 1px solid rgb(127, 127, 127);
+}
+.form_gioithieu img
+{
+    width: 70%;
+    padding: 2% 0 2% 0;
+}
+.form_gioithieu p
+{
+    width: 70%;
+    display: inline-block;
+}
+
+
+
+
